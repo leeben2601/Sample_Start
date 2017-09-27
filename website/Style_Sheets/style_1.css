@@ -1,0 +1,53 @@
+hr {
+    display: block;
+    margin-left: 15em;
+    margin-right: 15em;
+    border-width: 3px;
+	border-color: green;
+}
+
+img {
+	display:block;
+	margin: 0 auto;
+}
+
+ul {
+	width: 50%;
+	margin: auto;
+	float: center;
+}
+
+ol {
+	width: 50%;
+	margin: auto;
+	float: center;
+}
+
+li {
+	margin-left: 50px;
+}
+
+#breadcrumb{
+	margin-left: 250px;
+	font-size:80%
+}
+
+a:link {
+	text-decoration: none;
+	color:black;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
